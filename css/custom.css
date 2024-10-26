@@ -1,0 +1,7 @@
+/* custom.css */
+body {
+  background-image: url('/images/background.png'); /* 设置背景图片 */
+  background-size: cover;                          /* 背景图片填满屏幕 */
+  background-attachment: fixed;                    /* 背景固定，不随页面滚动 */
+  background-position: center;                     /* 图片居中显示 */
+}
